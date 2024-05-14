@@ -1,0 +1,19 @@
+# Passport-Bros-Mattress-Avengers
+Brief for task
+
+We are creating a skeleton version of a passport bro transport app.
+
+We work for the Passport Mattress Avengers department of a Passport Bros travel and tourism agency; we have been assigned the task of creating signups on the app for potential passport bro travelers who must be 18 and over. 
+
+users MUST be 18 or over to use the app.
+The user MUST enter a name to continue using the app.
+
+The next stage will include the user putting information about themselves, life countries traveled to, activities they enjoy, the kind of women they go for and so on. This will be given to them in the form of pre selected multiple choices they choose from.
+
+Once this is complete the user should enter the country in which they will be visiting next.
+
+And associated with that county should be the best cities to go to, best places to find women, best places for night life, activities to do there and so on.
+
+So the task is to create a database of countries and activities, country and best night life, country and best places to find women and so on
+
+
